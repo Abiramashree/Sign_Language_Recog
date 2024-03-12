@@ -36,5 +36,5 @@ I have trained the model for four signs: OK 👌🏻, All the Best 👍🏻, Pea
 - Make the sign and press 0 for the first sign, 1 for second and so on (You can have upto 9 signs)
 - Shift your hands and store as many signs you want (Have atleast 4 positions of the same sign for accurancy)
 - You can see the keyposints beung added to the file keypoint.csv
-- Run model.ipynb file to start the training the model
+- Run model.ipynb file to start the training the CNN model
 - Run recog.py to open camera and see the gestures being deteted and classified   
