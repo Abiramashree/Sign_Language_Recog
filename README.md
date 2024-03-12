@@ -37,4 +37,7 @@ I have trained the model for four signs: OK 👌🏻, All the Best 👍🏻, Pea
 - Shift your hands and store as many signs you want (Have atleast 4 positions of the same sign for accurancy)
 - You can see the keyposints beung added to the file keypoint.csv
 - Run model.ipynb file to start the training the CNN model
-- Run recog.py to open camera and see the gestures being deteted and classified   
+- Run recog.py to open camera and see the gestures being deteted and classified
+
+Reference:
+Thanks to the open source repo https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe
